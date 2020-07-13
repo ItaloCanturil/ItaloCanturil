@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-	My name is Italo Canturil from Brazil 🇧🇷, I'm learning web development since May 2020. I've been made self projects for test my studies.
+ My name is Italo Canturil from Brazil 🇧🇷, I'm learning web development since May 2020. I've been made self projects for test my studies.
 - 🌱 I’m currently learning Javascript
 
 ### Currently projects:
