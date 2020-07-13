@@ -5,7 +5,7 @@
 
 ### Currently projects:
 - 🕒 Pomodoro Timer
--👨🏻‍💻 Portfolio Website
+- 👨🏻‍💻 Portfolio Website
 
 <p align = center>
 	<a href="https://twitter.com/ItaloCantur"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
