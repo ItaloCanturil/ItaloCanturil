@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript and VueJS
 
 ### Currently projects:
-- 🕒 Pomodoro Timer
+- 📝 To-do List
 - 👨🏻‍💻 Portfolio Website
 
 <p align = center>
