@@ -4,11 +4,10 @@
 - 🌱 I’m currently learning Javascript and VueJS
 
 ### Currently projects:
-- 📝 To-do List
 - 👨🏻‍💻 Portfolio Website
 
 <p align = center>
-	<a href="https://twitter.com/ItaloCantur"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.flaticon.com/svg/static/icons/svg/1384/1384065.svg" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/italo-canturil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>	
 
