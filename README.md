@@ -13,16 +13,14 @@
 
 ----------
 
-<p align="center">
-	<a href="https://in.linkedin.com/in/italo-canturil">
-    	 <img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<p align="center"><a href="https://in.linkedin.com/in/italo-canturil">
+	<img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   	</a> &nbsp;&nbsp;
 	<a href="https://twitter.com/ItaloCantur">
     	 <img align="left" alt="Italo Canturil | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   	</a> &nbsp;&nbsp;
 	<a href="mailto:italo.cantur@gmail.com">
     	 <img align="left" alt="Italo Canturil | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  	</a>
-</p>	
+  	</a></p>	
 
 
