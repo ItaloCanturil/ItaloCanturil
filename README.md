@@ -7,14 +7,15 @@
 - 👨🏻‍💻 Habit Tracker;
 
 ------------
-<p align="justify">
+
+<p justify-content:"center">
 ![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italocanturil&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italocanturil&show_icons=true&hide_border=true)
 </p>
 
 ----------
 
-<p align="center"><a href="https://in.linkedin.com/in/italo-canturil">
+<p justify-content:"center"><a href="https://in.linkedin.com/in/italo-canturil">
 	<img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   	</a> &nbsp;&nbsp;
 	<a href="https://twitter.com/ItaloCantur">
