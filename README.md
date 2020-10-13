@@ -8,9 +8,7 @@
 
 ------------
 
-![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italocanturil&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italocanturil&show_icons=true&hide_border=true)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italocanturil&layout=compact)](https://github.com/eduubessa/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="165px" src="https://github-readme-stats.vercel.app/api?username=italocanturil&show_icons=true&text_color=2980b9&title_color=3498db&icon_color=3498db" />
 ----------
 
 <p justify-content:"center"><a href="https://in.linkedin.com/in/italo-canturil">
