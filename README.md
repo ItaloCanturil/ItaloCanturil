@@ -11,7 +11,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italocanturil&layout=compact)](https://github.com/eduubessa/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="165px" src="https://github-readme-stats.vercel.app/api?username=italocanturil&show_icons=true&text_color=2980b9&title_color=3498db&icon_color=3498db" />
 ----------
 
-<p justify-content:"center"><a href="https://in.linkedin.com/in/italo-canturil">
+<p style="justify-content:center">
+	<a href="https://in.linkedin.com/in/italo-canturil">
 	<img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   	</a> &nbsp;&nbsp;
 	<a href="https://twitter.com/ItaloCantur">
@@ -19,6 +20,7 @@
   	</a> &nbsp;&nbsp;
 	<a href="mailto:italo.cantur@gmail.com">
     	 <img align="left" alt="Italo Canturil | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  	</a></p>	
+  	</a>
+</p>	
 
 
