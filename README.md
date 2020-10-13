@@ -4,13 +4,17 @@
 - 🌱 I’m currently learning Javascript and VueJS
 
 ### Currently projects:
-- 👨🏻‍💻 Portfolio Website
+- 👨🏻‍💻 Habit Tracker;
 
-[![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canturilsnaik&layout=compact)]
+------------
+
+![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canturilsnaik&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canturilsnaik&show_icons=true&hide_border=true)
 
-<p align = center>
+----------
+
+<p align= "center">
 	<a href="https://in.linkedin.com/in/italo-canturil">
     	 <img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   	</a> &nbsp;&nbsp;
