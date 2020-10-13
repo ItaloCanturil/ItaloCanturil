@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
  My name is Italo Canturil from Brazil 🇧🇷, I'm learning web development since May 2020. I've been made self projects for test my studies.
 - 🌱 I’m currently learning Javascript and VueJS
@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italocanturil&layout=compact)](https://github.com/eduubessa/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="165px" src="https://github-readme-stats.vercel.app/api?username=italocanturil&show_icons=true&text_color=2980b9&title_color=3498db&icon_color=3498db" />
 ----------
 
-<p style="justify-content:center">
+<p style="justify-content:center width: 100%">
 	<a href="https://in.linkedin.com/in/italo-canturil">
 	<img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   	</a> &nbsp;&nbsp;
