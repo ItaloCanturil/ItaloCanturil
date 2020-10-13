@@ -14,7 +14,7 @@
 
 ----------
 
-<p align= "center">
+<p align="center">
 	<a href="https://in.linkedin.com/in/italo-canturil">
     	 <img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   	</a> &nbsp;&nbsp;
