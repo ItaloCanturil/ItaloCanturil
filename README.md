@@ -8,9 +8,9 @@
 
 ------------
 
-![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canturilsnaik&layout=compact)
+![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italocanturil&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canturilsnaik&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italocanturil&show_icons=true&hide_border=true)
 
 ----------
 
