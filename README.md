@@ -6,9 +6,20 @@
 ### Currently projects:
 - 👨🏻‍💻 Portfolio Website
 
+[![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=canturilsnaik&layout=compact)]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=canturilsnaik&show_icons=true&hide_border=true)
+
 <p align = center>
-	<a href="https://www.flaticon.com/svg/static/icons/svg/1384/1384065.svg" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/italo-canturil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://in.linkedin.com/in/italo-canturil">
+    	 <img align="left" alt="Italo Canturil | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  	</a> &nbsp;&nbsp;
+	<a href="https://twitter.com/ItaloCantur">
+    	 <img align="left" alt="Italo Canturil | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  	</a> &nbsp;&nbsp;
+	<a href="mailto:italo.cantur@gmail.com">
+    	 <img align="left" alt="Italo Canturil | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  	</a>
 </p>	
 
 
