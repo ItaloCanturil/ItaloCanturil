@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript and VueJS
 
 ### Currently projects:
-- 👨🏻‍💻 Habit Tracker;
+- 👨🏻‍💻 Portfolio Website;
 
 ------------
 
