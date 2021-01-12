@@ -7,6 +7,7 @@
 
 ### Currently projects:
 - 👨🏻‍💻 Portfolio Website;
+- 💻🐱‍👤 Test/Challenge Bossa Box
 
 ------------
 
