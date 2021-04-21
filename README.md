@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript and VueJS
 
 ### Currently projects:
-- 👨🏻‍💻 Portfolio Website;
+-  Me Contrata;
 - 💻 Habit Tracker
 
 ------------
