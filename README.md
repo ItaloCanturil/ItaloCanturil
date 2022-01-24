@@ -7,7 +7,8 @@
 
 ### Currently studies:
 - Vue JS
-- PHP
+- Web3 
+- Typescript
 
 ------------
 
