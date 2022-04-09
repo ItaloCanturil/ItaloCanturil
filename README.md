@@ -3,10 +3,12 @@
 "🚀 Ninguém consegue parar uma pessoa altamente determinada"
 
  My name is Italo Canturil from Brazil 🇧🇷, I'm learning web development since May 2020. I've been made self projects for test my studies.
-- 🌱 I’m currently learning Javascript and VueJS
+- 🌱 I’m learning every day, consistency is the key
+- 👨‍💻 I want to be the better developer what I can
 
 ### Currently studies:
 - Vue JS
+- React JS
 - Web3 
 - Typescript
 
