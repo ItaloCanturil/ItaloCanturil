@@ -2,19 +2,23 @@
 
 ###
 
-<p align="left">My name is Italo Canturil and I'm a Front End developer, from 2020</p>
+<p align="left">I'm Italo Canturil, a curious developer, especially in the Front-End area, but passionate about software engineering. I'm currently learning more about Software Engineering. With almost 3 years of experience as a Front-End developer, I've been involved in projects from inception to production. Primarily, I work with Vue, but I'm also proficient in React and Nuxt</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Goals</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web technologies<br>🎯 Goals: Be better than yesterday</p>
+For 2024, I aim to fill the gaps in my development by focusing on the following:
+
+- Specializing in another modern framework such as React or Next.js.
+- Expanding my knowledge of Back-End development with a new tech stack.
+- Deepening my understanding of software architecture as a whole.
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 Tech stack</h2>
 
 ###
 
