@@ -10,11 +10,11 @@
 
 ###
 
-For 2024, I aim to fill the gaps in my development by focusing on the following:
+For 2025, I aim to fill the gaps in my development by focusing on the following:
 
 - Specializing in another modern framework such as React or Next.js.
 - Expanding my knowledge of Back-End development with a new tech stack.
-- Deepening my understanding of software architecture as a whole.
+- Deploy a least one Saas.
 
 ###
 
